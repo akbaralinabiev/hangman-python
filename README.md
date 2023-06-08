@@ -8,14 +8,14 @@ This is a simple Hangman game implemented in Python. The game randomly selects a
 
 ## How to Run
 
-1. Clone the repository or download the `hangman.py` file.
+1. Clone the repository or download the `main.py` file.
 
-2. Open a terminal or command prompt and navigate to the directory where the `hangman.py` file is located.
+2. Open a terminal or command prompt and navigate to the directory where the `main.py` file is located.
 
 3. Run the following command to start the game:
 
    ```shell
-   python hangman.py
+   python main.py
 
 4. The game will prompt you to enter letters as your guesses. Enter a single letter and press Enter to submit your guess.
 
